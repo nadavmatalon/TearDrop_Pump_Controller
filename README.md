@@ -1,4 +1,4 @@
-#TearDrop | Pump Controller
+#TearDrop Pump Controller
 
 ##Table of Contents
 
