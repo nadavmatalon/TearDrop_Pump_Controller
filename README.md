@@ -12,22 +12,22 @@
 <table>
 	<tr>
 		<td align="center" width=25% >
-			<a href="https://raw.githubusercontent.com/nadavmatalon/TearDrop_Fan_Controller/master/images/TDPC_Arduino.jpg">
+			<a href="https://raw.githubusercontent.com/nadavmatalon/TearDrop_Pump_Controller/master/images/TDPC_Arduino.jpg">
 				<img src="images/TDPC_Arduino.jpg" height="105px" />
 			</a>
 		</td>
 		<td align="center" width=25% >
-			<a href="https://raw.githubusercontent.com/nadavmatalon/TearDrop_Fan_Controller/master/images/TDPC_PCB.jpg">
+			<a href="https://raw.githubusercontent.com/nadavmatalon/TearDrop_Pump_Controller/master/images/TDPC_PCB.jpg">
 				<img src="images/TDPC_PCB.jpg" height="105px" />
 			</a>
 		</td>
 		<td align="center" width=25% >
-			<a href="https://raw.githubusercontent.com/nadavmatalon/TearDrop_Fan_Controller/master/images/TearDrop_1.jpg">
+			<a href="https://raw.githubusercontent.com/nadavmatalon/TearDrop_Pump_Controller/master/images/TearDrop_1.jpg">
 				<img src="images/TearDrop_1.jpg" height="105px" />
 			</a>
 		</td>
 		<td align="center" width=25% >
-			<a href="https://raw.githubusercontent.com/nadavmatalon/TearDrop_Fan_Controller/master/images/TearDrop_2.jpg">
+			<a href="https://raw.githubusercontent.com/nadavmatalon/TearDrop_Pump_Controller/master/images/TearDrop_2.jpg">
 				<img src="images/TearDrop_2.jpg" height="105px" />
 			</a>
 		</td>
