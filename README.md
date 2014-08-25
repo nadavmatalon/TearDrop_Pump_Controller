@@ -36,9 +36,48 @@
 
 
 ##General Description
- 
-<strong>TearDrop</strong>
 
+This repo contains the following files:
+
+* __arduino__
+
+    The source code for the ATmega328P that runs the Pump Controller 
+
+    The file can can be directly accessed by clicking this link:
+
+    * [Pump Controller](arduino/TearDrop_Pump_Controller/TearDrop_Pump_Controller.ino)
+
+	The source code requires three supporting open-source [Arduino](http://www.arduino.cc/) libraries.
+
+	For convenience, these libraries are inlcuded here in their own sub-folder.
+
+	Credit goes to:
+
+	[PinChangeInt](http://playground.arduino.cc/Main/PinChangeInt)
+
+	[OneWire](https://github.com/ntruchsess/arduino-OneWire/tree/master)
+
+	[WSWire](https://github.com/steamfire/WSWireLib)
+
+
+* __eagle__
+
+    This folder contains the complete hardware schematics & PCB design of the Pump Controller.
+
+    __Please do not click on the files in this sub-folder as they are in foramts that 
+    are incompatible with Github's hosting server__.
+
+    However, the files can be downloaded and run as usual with [CadSoft](http://www.cadsoftusa.com/?language=en)'s 
+    free version of [Eagle](http://www.cadsoftusa.com/download-eagle/freeware/).
+
+
+* __parts__
+
+	A speadsheet with all information about the parts used for building the Pump Controller.
+
+	__The file in this sub-folder is also in foramts that's incompatible with Github's hosting server__.
+
+    However, the file can be downloaded and run as usual with any spreadsheet editing software.
 
 
 
