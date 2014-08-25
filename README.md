@@ -63,8 +63,8 @@ at [bit-tech](http://forums.bit-tech.net/showthread.php?t=234218).
 
 ##About the Pump Controller
 
-This repo contains the custom Fan Controller I’ve designed and built 
-to control __TearDrop__’s dual-pump cooling system.
+This repo contains the custom Pump Controller I’ve designed and built 
+to control __TearDrop__’s dual-D5PWM cooling system.
 
 This repo contains the following files:
 
